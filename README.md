@@ -7,12 +7,12 @@
 # testing
 
 ```bash
-$> make
-$> ./ft_containers # my implementation
-$> ./ft_containers [container_name] # output the test result of the specific container
-$> ./std_containers # STL implementation
-$> ./std_containers [container_name] # output the test result of the specific container
-$> make compare # output difference in file: ./output_folder/difference.txt
+$ make
+$ ./ft_containers # my implementation
+$ ./ft_containers [container_name] # output the test result of the specific container
+$ ./std_containers # STL implementation
+$ ./std_containers [container_name] # output the test result of the specific container
+$ make compare # output difference in file: ./output_folder/difference.txt
 ```
 
 
