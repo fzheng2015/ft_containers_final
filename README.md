@@ -1,6 +1,6 @@
 # ft_containers
 
-<img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 **This project is to re-implement some of the STL containers in C++98: vector, stack and map**
 
