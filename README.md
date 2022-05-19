@@ -16,6 +16,6 @@ $ make compare # output difference in file: ./output_folder/difference.txt
 ```
 
 
-# documentations
+# documentation
 * https://www.cplusplus.com/
 * https://en.cppreference.com/
